@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlaaFahs
 - 👀 I’m interested in Physics, Materials science and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning programming
-- 💞️ I’m looking to collaborate on Materials scientists, Physicists or Chemists
+- 💞️ I’m looking to collaborate with Materials scientists, Physicists, Chemists or Biophysicists
 - 📫 How to reach me: alaa.fahs@hotmail.com 
 
 <!---
