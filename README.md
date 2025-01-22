@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alain-Alaa-Fahs
+- 👋 Hi, I’m @Alain-Alaa Fahs
 - 👀 I’m interested in Artificial Intelligence applied to Materials Science and Automated Machines
 - 🌱 I’m currently learning Machine Learning programming
 - 💞️ I’m looking to collaborate with Engineers and/or Physicists
