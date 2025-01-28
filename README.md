@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alain,Alaa FAHS
+- 👋 Hi, I’m @Alaa FAHS
 - 👀 I’m an R&D staff and lecturer the fields of physics, materials and automatics. 
 - 🌱 I’m currently working on a Machine Learning software to detected abnormal behaviour in automated machines
 - 💞️ I’m looking to collaborate with people who have some value for digital science
